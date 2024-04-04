@@ -1,6 +1,6 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
     <PropertyGroup>
-        <TargetFrameworks>net6.0;net47</TargetFrameworks>
-    </PropertyGroup>
+		<TargetFramework>net8.0</TargetFramework>
+	</PropertyGroup>
     <Import Project="$(MSBuildThisFileDirectory)\..\Tests.Common.props" />
 </Project>
